@@ -1,6 +1,6 @@
 from django.test import TestCase
 
 # Create your tests here.
-# test for todos app
+# test comment
 class test_class():
     pass
